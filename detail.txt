@@ -1,0 +1,2 @@
+this is digital clock created with html and css
+It is very simple 
